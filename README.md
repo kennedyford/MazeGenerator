@@ -1,5 +1,4 @@
 <h1>MAZE GENERATOR</h1>
-<hr>
 
 <h3>Summary:</h3>
 
