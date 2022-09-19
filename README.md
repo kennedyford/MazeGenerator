@@ -1,4 +1,4 @@
-<MAZE GENERATOR>
+#MAZE GENERATOR
 _____________________
 
 Summary:
